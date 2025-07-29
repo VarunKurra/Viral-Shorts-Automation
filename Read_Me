@@ -1,0 +1,2 @@
+cd ~/Downloads/AI-videos
+streamlit run video_downloader_app.py
