@@ -52,19 +52,6 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### 5. Install Dependencies
 
-Create a `requirements.txt` file with:
-
-```txt
-google-auth-oauthlib
-google-api-python-client
-google-auth-httplib2
-streamlit
-requests
-python-dotenv
-```
-
-Then install all dependencies:
-
 ```bash
 pip install -r requirements.txt
 ```
