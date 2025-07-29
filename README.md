@@ -1,7 +1,7 @@
 
 # 🚀 Viral Shorts Automation – Download, Rewrite, and Re-upload YouTube Shorts with AI
 
-<img src="Icon.png" alt="Viral Shorts Automation Icon" width="800"/>
+<img src="Icon.png" alt="Viral Shorts Automation Icon" width="1000"/>
 
 Welcome to **Viral Shorts Automation**, an automated system designed to download viral YouTube Shorts by topic, regenerate their titles and descriptions using Groq AI, and re-upload them seamlessly. This repository enables effortless video content recycling with AI-driven SEO-optimized rewrites, complete Google OAuth integration, and free Groq API usage.
 
